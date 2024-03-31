@@ -11,7 +11,7 @@ The system operates as follows: The USBtoUART chip communicates with the PIC32 m
 - Terminal-based UI: Provides a user interface through the terminal to interact with the numerous motor control functionalities.
 
 ## Testing and Validation
-The motor's performance was tested against predefined trajectories, demonstrating it can follow the paths with the proper PID gains. Here are some plots below:
+The motor's performance was tested against predefined trajectories, demonstrating it can follow the paths with the proper PID gains. Here are some plots below, in which the blue plot is the motor trajectory and red the predefined trajectory:
 
 ![positionControl](https://github.com/SRyu1425/Motor-Control-Project/assets/142364914/59c39707-8923-42ea-af3e-eda1d8669ac1)
 ![positionControl_square](https://github.com/SRyu1425/Motor-Control-Project/assets/142364914/695f5a20-acc1-4818-aef7-e9ea4983bb4a)
