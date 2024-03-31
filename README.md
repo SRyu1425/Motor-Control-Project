@@ -13,6 +13,5 @@ The system operates as follows: The USBtoUART chip communicates with the PIC32 m
 ## Testing and Validation
 The motor's performance was tested against predefined trajectories, demonstrating it can follow the paths with the proper PID gains. Here are some plots below:
 
-
 ![positionControl](https://github.com/SRyu1425/Motor-Control-Project/assets/142364914/59c39707-8923-42ea-af3e-eda1d8669ac1)
-![positionControl_square](https://github.com/SRyu1425/Motor-Control-Project/assets/142364914/59cfc774-f4ee-4458-83b2-49302820c1b1)
+![positionControl_square](https://github.com/SRyu1425/Motor-Control-Project/assets/142364914/695f5a20-acc1-4818-aef7-e9ea4983bb4a)
