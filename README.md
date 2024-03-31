@@ -15,3 +15,9 @@ The motor's performance was tested against predefined trajectories, demonstratin
 
 ![positionControl](https://github.com/SRyu1425/Motor-Control-Project/assets/142364914/59c39707-8923-42ea-af3e-eda1d8669ac1)
 ![positionControl_square](https://github.com/SRyu1425/Motor-Control-Project/assets/142364914/695f5a20-acc1-4818-aef7-e9ea4983bb4a)
+
+
+## Videos and Setup
+Below is a photo of the circuit setup, as well as links to videos of two different motor control functionalities: [trajectory tracking](https://drive.google.com/file/d/1bxkFqCKP_luVAx32rwluyX9W-Vm3XbYW/view?usp=sharing) and [holding](https://drive.google.com/file/d/1ApRivh8avU0n7WdQb7yFcV5mra6wJDtg/view?usp=sharing) a specified position.
+![setup](https://github.com/SRyu1425/Motor-Control-Project/assets/142364914/e62d55b3-0842-48df-a951-5fbe758e07f7)
+
